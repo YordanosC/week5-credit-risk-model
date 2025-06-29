@@ -1,0 +1,12 @@
+.venv
+/data
+/logs
+/scripts/__pycache*
+/api/__pycache*
+/api/static
+/api/templates
+/api/app.py  
+/api/load_model.py
+/api/Procfile
+/api/model
+/tests/__pycache*
