@@ -1,6 +1,8 @@
 # README for Exploratory Data Analysis and Feature Engineering Project
 ## Overview
+
 This project focuses on performing Exploratory Data Analysis (EDA) and Feature Engineering on a dataset, with the ultimate goal of building a predictive model for credit scoring. The analysis includes understanding the dataset's structure, identifying patterns, and preparing features for modeling.
+
 ## Table of Contents
 1. [Project Structure](#Project-Structure)
 2. [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA)
