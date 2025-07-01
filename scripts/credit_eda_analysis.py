@@ -1,5 +1,6 @@
 # scripts/credit_risk_eda.py
 # Import necessary libraries
+from readline import redisplay
 import pandas as pd
 import numpy as np
 # Define the CreditRiskEDA class
@@ -23,7 +24,7 @@ class CreditRiskEDA:
         print("\nColumn Data Types:")
         print(self.df.dtypes)
         print("\nFirst Five Rows:")
-        display(self.df.head())
+        redisplay(self.df.head())
         print("\nMissing Values Overview:")
         print(self.df.isnull().sum())
         
