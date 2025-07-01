@@ -1,7 +1,6 @@
 import os, sys
 import joblib
 from fastapi import FastAPI, HTTPException, Request
-from fastapi.responses import JSONResponse
 import pandas as pd
 from pydantic import BaseModel, ValidationError
 from datetime import datetime
